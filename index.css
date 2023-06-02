@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.navbar_Symbol{
+    border-color: #4b6cc1;
+    border-width: 2px;
+    border-style: solid;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.content_background{
+    background-color: #191a1d;
+    padding: 20px;
+    
+}
+.a_color{
+    color:white;
+}
+.heading{
+    font-size: 46px;
+    color: white;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.para{
+    color: #9aa5b1;
+    font-size: 28px;
+    font-family: "Roboto";
+}
+.button{
+    background-color: #4b6cc1;
+    color: white;
+    height: 46px;
+    width: 140px;
+    border-radius: 8px;
+    border-width: 0px;
+
+}
+.title{
+    color: #4b6cc1;
+}
+.img_1{
+   margin-bottom: 10px;
+    width: 280px;
+}
+.bg_container1{
+    background-color: #323f4b;
+    padding: 30px;
+    
+   
+   
+}
+.heading_1{
+    font-weight: bold;
+    color: yellow;
+    font-size: 30px;
+    font-weight: bold;
+  
+}
+.heading_2{
+    color:white;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.p1{
+    color:#9aa5b1;
+    font-size: 20px;
+}
+.p2{
+    color:#9aa5b1;
+    font-size: 20px;
+}
+.bg_container2{
+background-color: #1f2933; 
+padding: 20px; 
+
+}
+.skill_heading{
+    color: white;
+   
+    font-size: 20px;
+    font-weight: bold;
+ 
+  
+}
+.skill_container{
+    text-align: center;
+    border-radius: 10px;
+    background-color:#323f4b;
+  height: 150px;
+  width: 150px;
+
+}
+.img_size{
+    height: 100px;
+    width: 86px;
+}
+.bg_container{
+    background-color:#3e4c59 ;
+
+}
+.heading_1{
+    color: #cced00;
+}
+.heading_2{
+    color: white;
+}
+.project_container{
+    background-color: #323f4b;
+   
+}
+.p1{
+    color: #9aa5b1;
+    font-size: 20px;
+}
+.p2{
+    color: #9aa5b1;
+    font-size: 30px;
+}
+.readmore{
+    color:#cced00 ;
+}
+.bg_container{
+    background-color: #52606d; 
+ }
+ .heading_1{
+     color: #cced00;
+ }
+ .heading_2{
+     color: white;
+ }
+ .content_container{
+     background-color: #323f4b ;
+     border-radius: 10px;
+ }
+ .img{
+     height: 46px;
+     width: 46px;
+ }
+ .content_heading{
+     color: white;
+     font-size: 25px;
+     font-weight: bold;
+ }
+ .content_para{
+     color:#9aa5b1 ;
+     font-size: 20px;
+ }
+ .bg-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    
+    background-size: cover;
+}
+
+.line-edit {
+    background-color: #ffffff;
+    width: 60px;
+}
+
+.heading {
+    color: white;
+    font-size: 36px;
+    font-family: "Roboto";
+    font-weight: 900;
+}
+
+.para {
+    color: white;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+.bg_container{
+    background-color:#1f2933;
+
+}
+.heading_1{
+    color: #cced00;
+}
+.heading_2{
+    color: white;
+}
+.content_container{
+    background-color: #323f4b;
+}
+.bg-inner-color {
+    background-color: #323f4b;
+}a
+
+.image-size {
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    
+}
+
+.para {
+    color: #9aa5b1;
+    font-size: 23px;
+}
+
+.sub-heading {
+    color: white;
+    font-size: 25px;
+    font-family: "Roboto";
+}
+.corousal_image{
+    height: 250px;
+    width: 200px;
+    border-radius: 20px;
+}
+.bg-card-container {
+    background-color: #0d2436;
+}
+
+.image-size {
+    height: 76px;
+    width: 76px;
+    border-radius: 40px;
+}
+
+.heading {
+    color: #cced00;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.para {
+    color: #9aa5b1;
+    font-weight: 600;
+}
+
+.icon {
+    color: #959ead;
+    font-size: 20px;
+}
+
+.section-text {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.bg-second-container {
+    background-color: #001c32;
+}
+.footer_img{
+    height: 76px;
+    width: 76px;
+    border-radius: 40px;
+}
